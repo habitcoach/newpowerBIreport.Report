@@ -1,5 +1,5 @@
 {
-  "config": "{\"version\":\"5.66\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY24SU10\",\"version\":{\"visual\":\"1.8.95\",\"report\":\"2.0.95\",\"page\":\"1.3.95\"},\"type\":2}},\"activeSectionIndex\":4,\"defaultDrillFilterOtherVisuals\":true,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true,\"useEnhancedTooltips\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}]}}",
+  "config": "{\"version\":\"5.66\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY24SU10\",\"version\":{\"visual\":\"1.8.95\",\"report\":\"2.0.95\",\"page\":\"1.3.95\"},\"type\":2}},\"activeSectionIndex\":6,\"defaultDrillFilterOtherVisuals\":true,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true,\"useEnhancedTooltips\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}]}}",
   "layoutOptimization": 0,
   "resourcePackages": [
     {
@@ -18,6 +18,17 @@
     }
   ],
   "sections": [
+    {
+      "config": "{}",
+      "displayName": "Page 6",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "025d53e0e8ca51622e88",
+      "ordinal": 5,
+      "visualContainers": [],
+      "width": 1280.00
+    },
     {
       "config": "{}",
       "displayName": "Page 4",
@@ -79,6 +90,17 @@
       "height": 720.00,
       "name": "b5fe58a9560ab8e35171",
       "ordinal": 2,
+      "visualContainers": [],
+      "width": 1280.00
+    },
+    {
+      "config": "{}",
+      "displayName": "Page 7",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "d79af244562c5c566946",
+      "ordinal": 6,
       "visualContainers": [],
       "width": 1280.00
     }
